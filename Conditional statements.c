@@ -11,6 +11,3 @@ printf("%d is even number",number);
 }    
 return 0;  
 }    
-Output :
-Enter a number:4
-4 is even number
